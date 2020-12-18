@@ -1,2 +1,2 @@
 # emoji
-Created with CodeSandbox
+An app created using React thta translates emojis to their english meaning
