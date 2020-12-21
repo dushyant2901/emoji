@@ -63,7 +63,10 @@ export default function App() {
         <strong>EMOJI</strong>
       </h1>
 
-      <input onChange={inputEmojiHandler}></input>
+      <input
+        placeholder="Insert The Emoji Here"
+        onChange={inputEmojiHandler}
+      ></input>
       <h2 style={{ color: "white" }}>
         <em>{meaning}</em>
       </h2>
