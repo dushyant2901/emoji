@@ -17,7 +17,25 @@ var emojiDictionary = {
   "🥵": "Hot Face",
   "🥶": "Cold Face",
   "🥴": "Woozy Face",
-  "😵": "Dizzy Face"
+  "😵": "Dizzy Face",
+  "😀": "Grinning Face",
+  "😃": "Grinning Face with Big Eyes",
+  "😄": "Beaming Face with Smiling Eyes",
+  "😆": "Grinning Squinting Face",
+  "😅": "Grinning Face with Sweat",
+  "🤣": "Rolling on the Floor Laughing",
+  "😂": "Face with Tears Of Joy",
+  "🙂": "Slightly Smiling Face",
+  "🙃": "Upside-Down Face",
+  "😉": "Winking Face",
+  "😊": "Smiling Face with Smiling Eyes",
+  "😇": "Smiling Face with Halo",
+  "🥰": "Smiling Face with Hearts",
+  "😍": "Smiling Face with Heart-Eyes",
+  "🤩": "Star-Struck",
+  "😘": "Face Blowing a Kiss",
+  "😗": "Kissing Face",
+  "😚": "Kissing Face with Closed Eyes"
 };
 var emojisWeKnow = Object.keys(emojiDictionary);
 
