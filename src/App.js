@@ -63,6 +63,12 @@ export default function App() {
       </h1>
 
       <input
+        style={{
+          width: "80%",
+          height: "8vh",
+          textAlign: "center",
+          fontSize: "1.5rem"
+        }}
         placeholder="Insert The Emoji Here"
         onChange={inputEmojiHandler}
       ></input>
