@@ -28,7 +28,6 @@ var emojiDictionary = {
   "🙂": "Slightly Smiling Face",
   "🙃": "Upside-Down Face",
   "😉": "Winking Face",
-  "😊": "Smiling Face with Smiling Eyes",
   "😇": "Smiling Face with Halo",
   "🥰": "Smiling Face with Hearts",
   "😍": "Smiling Face with Heart-Eyes",
