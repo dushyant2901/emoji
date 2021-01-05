@@ -67,7 +67,8 @@ export default function App() {
           width: "80%",
           height: "8vh",
           textAlign: "center",
-          fontSize: "1.5rem"
+          fontSize: "1.5rem",
+          borderRadius: "0.5rem"
         }}
         placeholder="Insert The Emoji Here"
         onChange={inputEmojiHandler}
