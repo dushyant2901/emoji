@@ -88,6 +88,30 @@ export default function App() {
           </span>
         );
       })}
+
+      <div className="links">
+        <ul className="list-unbulleted-list">
+          <li className="list-item-inline">
+            <a className="link" href="https://github.com/dushyant2901">
+              Github
+            </a>
+          </li>
+          <li className="list-item-inline">
+            <a className="link" href="https://twitter.com/DushyantPS">
+              {" "}
+              Twitter
+            </a>
+          </li>
+          <li className="list-item-inline">
+            <a
+              className="link"
+              href="https://in.linkedin.com/in/dushyant-pratap-singh-04b24619b"
+            >
+              Linkedin
+            </a>
+          </li>
+        </ul>{" "}
+      </div>
     </div>
   );
 }

@@ -5,3 +5,24 @@
 body {
   background-color: #bf56c9;
 }
+.links {
+  margin-top: 2rem;
+  border: 2px solid white;
+
+  border-radius: 1rem;
+}
+.link {
+  text-decoration: none;
+  box-sizing: border-box;
+  padding: 0.5rem 1rem;
+  margin: 0rem 0.3rem;
+  color: lightgray;
+}
+
+.list-unbulleted-list {
+  list-style: none;
+}
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
